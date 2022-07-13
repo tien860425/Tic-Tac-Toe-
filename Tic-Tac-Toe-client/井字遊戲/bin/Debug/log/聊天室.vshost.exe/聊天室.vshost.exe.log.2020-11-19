@@ -1,0 +1,110 @@
+2020-11-19 08:19:17,637 INFO 84 - Socket ready to receive message!
+2020-11-19 08:19:17,637 INFO 180 - Server 關閉連線!!
+2020-11-19 08:19:53,139 ERROR67 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.button1_Click(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 48
+2020-11-19 08:19:57,343 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:19:59,436 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:01,561 ERROR67 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.button1_Click(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 48
+2020-11-19 08:20:03,608 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:05,682 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:07,760 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:09,885 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:12,010 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:14,135 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:16,197 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:18,296 ERROR106 - System.Net.Sockets.SocketException (0x80004005): 無法連線，因為目標電腦拒絕連線。 172.22.6.12:10000
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 85
+2020-11-19 08:20:28,973 INFO 84 - Socket ready to receive message!
+2020-11-19 08:20:54,262 INFO 172 - Receive message:[22]
+2020-11-19 08:21:09,467 INFO 105 - Send out :[E,38,]
+2020-11-19 08:21:09,545 ERROR201 - System.ObjectDisposedException: 無法存取已處置的物件。
+物件名稱: 'System.Net.Sockets.Socket'。
+   於 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   於 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   於 聊天室.Main.socketReceive(IAsyncResult ar) 於 d:\聊天室1\聊天室\Main.cs: 行 167
+2020-11-19 08:26:17,626 INFO 84 - Socket ready to receive message!
+2020-11-19 08:27:32,838 ERROR93 - System.Net.Sockets.SocketException (0x80004005): 遠端主機已強制關閉一個現存的連線。
+   於 System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   於 聊天室.Main.Main_Shown(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Main.cs: 行 83
+2020-11-19 08:30:03,236 ERROR109 - System.Net.Sockets.SocketException (0x80004005): 遠端主機已強制關閉一個現存的連線。
+   於 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   於 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   於 聊天室.Main.socketSend(String sendData) 於 d:\聊天室1\聊天室\Main.cs: 行 103
+2020-11-19 08:30:12,640 ERROR68 - System.ObjectDisposedException: 無法存取已處置的物件。
+物件名稱: 'System.Net.Sockets.Socket'。
+   於 System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   於 聊天室.Main.btnEnd_Click_1(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Main.cs: 行 796
+   於 System.Windows.Forms.Control.OnClick(EventArgs e)
+   於 System.Windows.Forms.Button.OnClick(EventArgs e)
+   於 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   於 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   於 System.Windows.Forms.Control.WndProc(Message& m)
+   於 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   於 System.Windows.Forms.Button.WndProc(Message& m)
+   於 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   於 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   於 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   於 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   於 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   於 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   於 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   於 System.Windows.Forms.Application.RunDialog(Form form)
+   於 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   於 System.Windows.Forms.Form.ShowDialog()
+   於 聊天室.Form1.button1_Click(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 55
+2020-11-19 08:30:14,671 ERROR107 - System.ObjectDisposedException: 無法存取已處置的物件。
+物件名稱: 'System.Net.Sockets.Socket'。
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 86
+2020-11-19 08:30:16,689 ERROR107 - System.ObjectDisposedException: 無法存取已處置的物件。
+物件名稱: 'System.Net.Sockets.Socket'。
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 86
+2020-11-19 08:30:18,673 ERROR107 - System.ObjectDisposedException: 無法存取已處置的物件。
+物件名稱: 'System.Net.Sockets.Socket'。
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 聊天室.Form1.timer1_Tick(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Form1.cs: 行 86
+2020-11-19 08:30:37,249 ERROR93 - System.Net.Sockets.SocketException (0x80004005): 遠端主機已強制關閉一個現存的連線。
+   於 System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   於 聊天室.Main.Main_Shown(Object sender, EventArgs e) 於 d:\聊天室1\聊天室\Main.cs: 行 83
+2020-11-19 08:34:40,082 ERROR109 - System.Net.Sockets.SocketException (0x80004005): 遠端主機已強制關閉一個現存的連線。
+   於 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   於 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   於 聊天室.Main.socketSend(String sendData) 於 d:\聊天室1\聊天室\Main.cs: 行 103
+2020-11-19 08:35:10,443 INFO 84 - Socket ready to receive message!
+2020-11-19 08:35:10,443 INFO 172 - Receive message:[??n?K??]
+2020-11-19 08:36:23,060 INFO 180 - Server 關閉連線!!

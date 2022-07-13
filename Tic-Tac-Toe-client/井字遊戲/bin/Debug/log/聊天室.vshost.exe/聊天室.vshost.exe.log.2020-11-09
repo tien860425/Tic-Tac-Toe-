@@ -1,0 +1,4 @@
+2020-11-09 15:54:42,089 INFO 84 - Socket ready to receive message!
+2020-11-09 15:55:14,251 ERROR201 - System.Net.Sockets.SocketException (0x80004005): 遠端主機已強制關閉一個現存的連線。
+   於 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   於 聊天室.Main.socketReceive(IAsyncResult ar) 於 d:\聊天室1\聊天室\Main.cs: 行 167

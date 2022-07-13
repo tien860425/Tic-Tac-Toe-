@@ -1,0 +1,61 @@
+C:\Users\FeiRu\Desktop\聊天室\聊天室\bin\Debug\聊天室.exe.config
+C:\Users\FeiRu\Desktop\聊天室\聊天室\bin\Debug\聊天室.exe
+C:\Users\FeiRu\Desktop\聊天室\聊天室\bin\Debug\聊天室.pdb
+C:\Users\FeiRu\Desktop\聊天室\聊天室\obj\Debug\聊天室.csprojResolveAssemblyReference.cache
+C:\Users\FeiRu\Desktop\聊天室\聊天室\obj\Debug\聊天室.Form1.resources
+C:\Users\FeiRu\Desktop\聊天室\聊天室\obj\Debug\聊天室.Properties.Resources.resources
+C:\Users\FeiRu\Desktop\聊天室\聊天室\obj\Debug\聊天室.csproj.GenerateResource.Cache
+C:\Users\FeiRu\Desktop\聊天室\聊天室\obj\Debug\聊天室.exe
+C:\Users\FeiRu\Desktop\聊天室\聊天室\obj\Debug\聊天室.pdb
+C:\Users\FeiRu\Desktop\聊天室\聊天室\obj\Debug\聊天室.Main.resources
+D:\聊天室\聊天室\bin\Debug\聊天室.exe.config
+D:\聊天室\聊天室\obj\Debug\聊天室.exe
+D:\聊天室\聊天室\obj\Debug\聊天室.pdb
+D:\聊天室 1\聊天室\bin\Debug\聊天室.exe.config
+D:\聊天室 1\聊天室\obj\Debug\聊天室.exe
+D:\聊天室 1\聊天室\obj\Debug\聊天室.pdb
+D:\聊天室 1\聊天室\bin\Debug\聊天室.exe
+D:\聊天室 1\聊天室\bin\Debug\聊天室.pdb
+D:\聊天室 1\聊天室\obj\Debug\聊天室.Form1.resources
+D:\聊天室 1\聊天室\obj\Debug\聊天室.Main.resources
+D:\聊天室 1\聊天室\obj\Debug\聊天室.Properties.Resources.resources
+D:\聊天室 1\聊天室\obj\Debug\聊天室.csproj.GenerateResource.Cache
+D:\聊天室 1\聊天室\bin\Debug\log4net.dll
+D:\聊天室 1\聊天室\bin\Debug\log4net.pdb
+D:\聊天室 1\聊天室\bin\Debug\log4net.xml
+D:\聊天室 1\聊天室\obj\Debug\聊天室.csprojResolveAssemblyReference.cache
+D:\聊天室2\聊天室\bin\Debug\聊天室.exe.config
+D:\聊天室2\聊天室\obj\Debug\聊天室.exe
+D:\聊天室2\聊天室\obj\Debug\聊天室.pdb
+D:\聊天室2\聊天室\obj\Debug\聊天室.csprojResolveAssemblyReference.cache
+D:\聊天室2\聊天室\obj\Debug\聊天室.Form1.resources
+D:\聊天室2\聊天室\obj\Debug\聊天室.Main.resources
+D:\聊天室2\聊天室\obj\Debug\聊天室.Properties.Resources.resources
+D:\聊天室2\聊天室\obj\Debug\聊天室.csproj.GenerateResource.Cache
+D:\聊天室2\聊天室\bin\Debug\聊天室.exe
+D:\聊天室2\聊天室\bin\Debug\聊天室.pdb
+D:\聊天室2\聊天室\bin\Debug\log4net.dll
+D:\聊天室2\聊天室\bin\Debug\log4net.pdb
+D:\聊天室2\聊天室\bin\Debug\log4net.xml
+D:\聊天室2 - 複製\聊天室\bin\Debug\聊天室.exe.config
+D:\聊天室2 - 複製\聊天室\obj\Debug\聊天室.exe
+D:\聊天室2 - 複製\聊天室\obj\Debug\聊天室.pdb
+D:\聊天室1_1009\聊天室\bin\Debug\聊天室.exe.config
+D:\聊天室1_1009\聊天室\obj\Debug\聊天室.exe
+D:\聊天室1_1009\聊天室\obj\Debug\聊天室.pdb
+D:\聊天室1\聊天室\bin\Debug\聊天室.exe.config
+D:\聊天室1\聊天室\obj\Debug\聊天室.exe
+D:\聊天室1\聊天室\obj\Debug\聊天室.pdb
+D:\聊天室1\聊天室\bin\Debug\聊天室.exe
+D:\聊天室1\聊天室\bin\Debug\聊天室.pdb
+D:\聊天室1\聊天室\bin\Debug\log4net.dll
+D:\聊天室1\聊天室\bin\Debug\log4net.pdb
+D:\聊天室1\聊天室\bin\Debug\log4net.xml
+D:\聊天室1\聊天室\obj\Debug\聊天室.csprojResolveAssemblyReference.cache
+D:\聊天室1\聊天室\obj\Debug\聊天室.Form1.resources
+D:\聊天室1\聊天室\obj\Debug\聊天室.Main.resources
+D:\聊天室1\聊天室\obj\Debug\聊天室.Properties.Resources.resources
+D:\聊天室1\聊天室\obj\Debug\聊天室.csproj.GenerateResource.Cache
+D:\Tic-Tac-Toe\聊天室\bin\Debug\聊天室.exe.config
+D:\Tic-Tac-Toe\聊天室\obj\Debug\聊天室.exe
+D:\Tic-Tac-Toe\聊天室\obj\Debug\聊天室.pdb

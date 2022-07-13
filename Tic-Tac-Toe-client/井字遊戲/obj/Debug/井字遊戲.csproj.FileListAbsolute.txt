@@ -1,0 +1,3 @@
+D:\Tic-Tac-Toe\聊天室\bin\Debug\聊天室.exe.config
+D:\Tic-Tac-Toe\聊天室\obj\Debug\聊天室.exe
+D:\Tic-Tac-Toe\聊天室\obj\Debug\聊天室.pdb
